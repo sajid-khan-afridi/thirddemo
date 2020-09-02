@@ -2,4 +2,4 @@ working on remote repo
 
 updated change
 
-updated for merge commit
+updated for merge commit2
